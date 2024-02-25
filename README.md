@@ -1,8 +1,11 @@
 # Sales Dashboard
+
 Problem Statement
+
 This dashboard helps the company understand their customer better. It helps company know if their customers are satisfied with their services.
 
 Recommended analysis
+
 How many customers do we have each day?
 
 Are there any peak hours?
